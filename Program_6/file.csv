@@ -1,0 +1,33 @@
+Order No,Customer,SKU,Qty,Price,Address1,Address2,Zipcode,City,Country
+SO001,Mohit Patel,STARCD173501,1,25,Address 0002,Address2 0001,67806,Amritsar,USA
+SO001,Mohit Patel,STARCD173502,2,30,Address 0002,Address2 0001,67806,Amritsar,USA
+SO003,Ketan Desai,MALTAF104511,7,45,Address 0011,Address2 0030,67806,Sydney,AU
+SO001,Mohit Patel,STARCD173503,5,87,Address 0002,Address2 0001,67806,Amritsar,USA
+SO004,Ankit Batra,STARCD173501,6,88,Address 0005,Address2 0012,22589,Hamburg,ES
+SO002,Rajesh,7PLUSF173201,5,89,Address 0006,Address2 0007,67806,Dörrmoschel,DE
+SO002,Rajesh,7PLUSF173207,6,90,Address 0006,Address2 0007,67806,Dörrmoschel,DE
+SO006,Mihir Tanna,7PLUSF173201,4,91,Address 0008,Address2 0016,1720,New York,UK
+SO002,Rajesh,7PLUSF173201,3,93,Address 0006,Address2 0007,67806,Dörrmoschel,DE
+SO003,Ketan Desai,MALTAF104512,1,94,Address 0011,Address2 0030,67806,Sydney,AU
+SO004,Ankit Batra,MALTAF104511,4,95,Address 0005,Address2 0012,22589,Hamburg,ES
+SO003,Ketan Desai,MALTAF104513,2,97,Address 0011,Address2 0030,67809,Sydney,AU
+SO005,Prashant Singh,MALTAF104511,3,98,Address 0015,Address2 0015,22589,Hamburg Sülldorf,IT
+SO006,Mihir Tanna,ASTN173502,6,99,Address 0008,Address2 0016,1720,New York,UK
+SO002,Rajesh,ASTN173502,4,100,Address 0006,Address2 0007,67806,Dörrmoschel,DE
+SO004,Ankit Batra,ASTN173502,5,102,Address 0005,Address2 0012,22589,Hamburg,ES
+SO006,Mihir Tanna,MSCE183104,7,104,Address 0008,Address2 0016,1720,New York,UK
+SO004,Ankit Batra,MSCE183104,7,105,Address 0005,Address2 0012,22589,Hamburg,ES
+SO006,Mihir Tanna,MSCE183105,5,106,Address 0008,Address2 0016,1720,New York,UK
+SO006,Mihir Tanna,MSCE183109,6,108,Address 0008,Address2 0016,1720,New York,UK
+SO010,Ajit Kapoor,STARCF182801,2,112,Address 0029,Address2 0035,28777,Peru,IT
+SO003,Ketan Desai,STARCF182801,4,113,Address 0011,,67809,Sydney,AU
+SO003,Ketan Desai,7PLUSF173202,5,114,Address 0011,,67809,Sydney,AU
+SO010,Ajit Kapoor,7PLUSF173202,4,118,Address 0029,Address2 0035,28778,Peru,IT
+SO006,Mihir Tanna,STARCE172901,2,134,Address 0008,Address2 0016,1720,New York,UK
+SO003,Ketan Desai,STARCE172901,4,136,Address 0011,Address2 0030,67809,Sydney,AU
+SO006,Mihir Tanna,STARCE172902,7,137,Address 0008,Address2 0016,1720,New York,UK
+SO003,Ketan Desai,STARCE172902,1,138,Address 0011,Address2 0030,67809,Sydney,AU
+SO002,Rajesh,7PLUSF174501,5,141,Address 0006,Address2 0007,67807,Dörrmoschel,DE
+SO002,Rajesh,MALTAE150301,6,144,Address 0006,Address2 0007,67807,Dörrmoschel,DE
+SO002,Rajesh,MALTAE150301,2,146,Address 0006,Address2 0007,67807,Dörrmoschel,DE
+SO001,Mohit Patel,STARCD173504,4,45,Address 0002,Address2 0001,67806,Amritsar,USA
